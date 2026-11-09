@@ -62,7 +62,9 @@ Este projeto convida o espectador a refletir sobre essa transformação.
 
 ## 📽️ Resultado final
 
-*Vídeo em produção. O link será adicionado após a conclusão.*
+O vídeo está publicado no YouTube!
+
+▶️ [Assista ao projeto completo](https://youtube.com/shorts/0MYuZW_ehDc?feature=share)
 
 ## 👨‍💻 Autor
 
