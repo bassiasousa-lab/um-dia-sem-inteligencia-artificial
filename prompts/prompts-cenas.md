@@ -1,4 +1,3 @@
-
 # Engenharia de Prompts — Um dia sem Inteligência Artificial
 
 ## Direção visual geral
